@@ -8,7 +8,9 @@
 
 `#nossos-eventos` : Aqui colocamos os alertas sobre os eventos e discutimos tudo relacionado a eles, como local, horário, formato, etc.
 
-`#papo-tecnico` : Aqui conversamos sobre tecnologia e tiramos dúvidas. Se tem alguma questão a levantar sobre desenvolvimento ou relacionado, é aqui que vamos ajudar! \o/
+`back-end` : Canal para conversarmos sobre Back.
+
+`front-end` : Canal para conversarmos sobre Front.
 
 `#updates` : Não fale nesse canal jovem, ele é automático para as atualizações do Twitter e demais canais integrados.
 
