@@ -4,7 +4,7 @@ Repositório com regras e coisas legais sobre o Slack do [FEMUG-ABC](http://abc.
 
 Se ainda não está no nosso grupo, clique [aqui](http://slackfemugabc.herokuapp.com) e entra lá pra conversar com a gente! :D
 
-Assim que estiver no Slack não se esqueça de seguir essas ["regrinhas para os canais"](canais.md) e lembre-se que somos um grupo com [regras de verdade ;D](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) que se aplicam ao chat.
+Assim que estiver no Slack não se esqueça de seguir essas ["regrinhas para os canais"](canais.md) e lembre-se que somos um grupo com [regras de verdade](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) que se aplicam ao chat.
 
 ## Movimentos
 
