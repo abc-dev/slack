@@ -18,4 +18,22 @@ Temos alguns movimentos rolando no grupo que servem para aumentar a união e apr
 
 - [#playlist](/playlist.md).
 
+## Alguns comandos legais
+
+Use esses comandos no Slack para aumentar a diversão!
+
+`@slackbot me manda uma foto do @marquinhus?`
+
+`O que dizer sobre !important no CSS Slackbot?`
+
+`O que você pensa sobre JavaScript Slackbot?`
+
+`\cheiro de treta`
+
+`\padawan`
+
+`\treta`
+
+`\treta maligna`
+
 Participe conosco! :D
