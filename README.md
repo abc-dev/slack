@@ -1,4 +1,4 @@
-# Slack
+# Slack [![Slack Status](http://slackabcdev.herokuapp.com/badge.svg)](http://slackabcdev.herokuapp.com/)
 
 ## O que é Slack?
 
@@ -8,15 +8,9 @@ Aproveite para instalar no Celular/PC! ;D
 
 ## Nosso team
 
-Se ainda não está no nosso grupo, clique [aqui](http://slackfemugabc.herokuapp.com) e entra lá pra conversar com a gente! :D
+Se ainda não está no nosso grupo, clique [aqui](http://slackabcdev.herokuapp.com/) e entra lá pra conversar com a gente! :D
 
-Assim que estiver no Slack não se esqueça de seguir essas ["regrinhas"](canais.md) e lembre-se que somos um grupo com [regras de conduta](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) que se aplicam ao chat também.
-
-## Movimentos
-
-Temos alguns movimentos rolando no grupo que servem para aumentar a união e aprendizado geral.
-
-- [#playlist](/playlist.md).
+Assim que estiver no Slack não se esqueça de seguir essas ["regrinhas"](canais.md) e lembre-se que somos um grupo com um [código de conduta](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) que se aplicam ao chat também.
 
 ## Alguns comandos legais
 
