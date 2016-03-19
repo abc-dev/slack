@@ -14,7 +14,7 @@
 
 `femug-abc` : Canal para conversarmos sobre Front e eventos do FEMUG-ABC.
 
-`front-ladies-abc` : Canal somente para as mulheres e eventos do FRONT-LADIES-ABC. Homens podem ser banidos.
+`front-ladies-abc` : Canal somente para as mulheres e eventos do FRONT-LADIES-ABC.
 
 `gdg-abc` : Canal do GDG-ABC.
 
