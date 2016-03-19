@@ -8,11 +8,15 @@
 
 `#english-modafoca` : Um #off-topic em inglês. Qualquer coisa que nos ajude ou estimule a conversar em inglês pode ser postada nesse canal ("qualquer coisa", respeite os amiguinhos). Nesse canal só não pode falar português! ;P
 
-`#nossos-eventos` : Aqui colocamos os alertas sobre os eventos e discutimos tudo relacionado a eles, como local, horário, formato, etc.
+`#nossos-eventos` : Aqui colocamos os alertas sobre todos os eventos e discutimos tudo relacionado a eles, como local, horário, formato, etc.
 
-`back-end` : Canal para conversarmos sobre Back.
+`crud-abc` : Canal para conversarmos sobre Back e eventos do CRUD-ABC.
 
-`front-end` : Canal para conversarmos sobre Front.
+`femug-abc` : Canal para conversarmos sobre Front e eventos do FEMUG-ABC.
+
+`front-ladies-abc` : Canal somente para as mulheres e eventos do FRONT-LADIES-ABC. Homens podem ser banidos.
+
+`gdg-abc` : Canal do GDG-ABC.
 
 `#updates` : Não fale nesse canal jovem, ele é automático para as atualizações do Twitter e demais canais integrados.
 
